@@ -1,5 +1,5 @@
 {
-    "title": "Site İsmi",
-    "mongodbUrl": "mongodb_Url",
+    "title": "Squix Uptime",
+    "mongodbUrl": "mongodb+srv://rowley11:21092109hsC@rowbotdb.ctyynkb.mongodb.net/?retryWrites=true&w=majority",
     "discordInvate": "https://discord.gg/gPVTxAPncX"
 }
